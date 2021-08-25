@@ -1,5 +1,6 @@
 # logAz
-Python script to display data in logAzimuthal projection
+Python script to display geographical data in logAzimuthal projection. See: https://observablehq.com/@fil/log-azimuthal
+
 
 ![image](https://user-images.githubusercontent.com/11299960/130772970-539f047b-adf2-4faa-8df9-345d071cef3f.png)
 
